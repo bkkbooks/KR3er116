@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er116/v1
 canonical_location: https://kanripo.org/bkk/KR3er116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 圓運動的古中醫學
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er116_000.yaml, hash: 'sha256:e9c178e4e5cf2e8bc0aed8600ffd6336f5b87be46ae1d0b6d794a6d14b1444a3'}
+  - {seq: 0, filename: KR3er116_000.yaml, hash: 'sha256:68e8904abe36e7405eb73722af5559fca12a862cdce05b0c6876cdf50fcae909'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er116_000.markers.yaml, hash: 'sha256:fbcbc48f729a6bdb5466d2d57b9b6d6d15fe3f7278a745f6b4dc60584938a601'}
+  - {seq: 0, role: markers, filename: assets/KR3er116_000.markers.yaml, hash: 'sha256:2f331e9332e2c4ebdcb4133d993879c5181295a11442caff05fc7a2537add587'}
 table_of_contents:
 - ref:
     seq: 0
@@ -7581,4 +7581,7 @@ table_of_contents:
   label: 王詳瑞贊
   type: section
   level: 1
-hash: sha256:5a54415f3941a4400d3e18821bcdbe32494ad82ced36584bb478100c9d80f8d2
+hash: sha256:3ab8fcc6ceb40ced5d2fa2936cf357d812a577f043cb29b91ad8e7dbb1a232a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
