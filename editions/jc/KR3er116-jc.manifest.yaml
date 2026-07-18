@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er116_000-jc.yaml, hash: 'sha256:e9c178e4e5cf2e8bc0aed8600ffd6336f5b87be46ae1d0b6d794a6d14b1444a3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er116_000-jc.markers.yaml, hash: 'sha256:de712064c473feff749638337e416e9aeb65e2022bc3248f11a448116954e527'}
+  - {seq: 0, role: markers, filename: assets/KR3er116_000-jc.markers.yaml, hash: 'sha256:6bbf07b0c55571586dde4df3e0ee4f3873f9d913e8ef4f91f6a2d5138385c275'}
 table_of_contents:
 - ref:
     seq: 0
@@ -7581,4 +7581,4 @@ table_of_contents:
   label: 王詳瑞贊
   type: section
   level: 1
-hash: sha256:3373b1300fe1a8f9bba7f6035111396476fc29595f49e7628c28de77d7ddd4c5
+hash: sha256:5b9f6fe45cd9535cb86392cf55e240a06b8001afefaee0cfa1b16cb0e6b2729c
